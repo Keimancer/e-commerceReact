@@ -1,0 +1,20 @@
+.content-class{
+    padding: 2rem;
+}
+
+.card-imgs{
+    object-fit: contain;
+}
+
+.carousel-imgs{
+    height: 400px;
+}
+
+.titles{
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.checkout-button{
+    margin-top: 1.5rem;
+}
